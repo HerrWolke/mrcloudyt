@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcloudyt&" alt="mrcloudyt" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrcloudyt&count_private=true&theme=highcontrast">
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MrCloud"></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MrCloud"></p>
 
 
