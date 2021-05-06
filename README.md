@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PlatinLife FiveM Server**
 
-- 🌱 I’m currently learning **FiveM/Lua Scripting**
+- 🌱 I’m currently learning **FiveM/Lua Scripting** and **Spring Boot/Integration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
