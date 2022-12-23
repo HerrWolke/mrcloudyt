@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcloudyt&label=Profile%20views&color=0e75b6&style=flat" alt="mrcloudyt" /> </p>
 
-- 🔭 I’m currently working on **PlatinLife FiveM Server**
-
 - 🌱 I’m currently learning **FiveM/Lua Scripting** and **Spring Boot/Integration**
 
 <h3 align="left">Connect with me:</h3>
