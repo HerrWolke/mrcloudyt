@@ -5,11 +5,6 @@
 
 - 🌱 I’m currently learning **FiveM/Lua Scripting** and **Spring Boot/Integration**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__mrcloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="__mrcloud" height="30" width="40" /></a>
-</p>
-
 
 
 
